@@ -474,7 +474,7 @@ class ResumeApp:
             # GitHub star button with lottie animation
             st.markdown("""
             <div style='display: flex; justify-content: center; align-items: center; margin-bottom: 10px;'>
-                <a href='https://github.com/Hunterdii/Smart-AI-Resume-Analyzer' target='_blank' style='text-decoration: none;'>
+                <a href='https://github.com/Surajkecode' target='_blank' style='text-decoration: none;'>
                     <div style='display: flex; align-items: center; background-color: #24292e; padding: 5px 10px; border-radius: 5px; transition: all 0.3s ease;'>
                         <svg height="16" width="16" viewBox="0 0 16 16" version="1.1" style='margin-right: 5px;'>
                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z" fill="gold"></path>
@@ -489,8 +489,8 @@ class ResumeApp:
             st.markdown("""
             <p style='text-align: center;'>
                 Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by 
-                <a href="https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/" target="_blank" style='text-decoration: none; color: #FFFFFF'>
-                    <b>Het Patel (Hunterdii)</b>
+                <a href="https://www.linkedin.com/in/suraj-borkute" target="_blank" style='text-decoration: none; color: #FFFFFF'>
+                    <b>Suraj Borkute</b>
                 </a>
             </p>
             <p style='text-align: center; font-size: 12px; color: #888888;'>
@@ -1164,20 +1164,20 @@ class ResumeApp:
         # Profile Section
         st.markdown(f"""
             <div class="profile-section">
-                <img src="{image_base64 if image_base64 else 'https://avatars.githubusercontent.com/Hunterdii'}"
-                     alt="Het Patel"
+                <img src="{image_base64 if image_base64 else 'https://www.ssinfotech.co/logo.png'}"
+                     alt="SS Infotech"
                      class="profile-image"
-                     onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/Hunterdii';">
-                <h2 class="profile-name">Het Patel (Hunterdii)</h2>
+                     onerror="this.onerror=null; this.src='https://www.ssinfotech.co/logo.png';">
+                <h2 class="profile-name">Suraj Borkute/<h2>
                 <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
                 <div class="social-links">
-                    <a href="https://github.com/Hunterdii" class="social-link" target="_blank">
+                    <a href="https://github.com/Surajkecode" class="social-link" target="_blank">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/" class="social-link" target="_blank">
+                    <a href="https://www.linkedin.com/in/suraj-borkute" class="social-link" target="_blank">
                         <i class="fab fa-linkedin"></i>
                     </a>
-                    <a href="mailto:hunterdii9879@gmail.com" class="social-link" target="_blank">
+                    <a href="surajborkute.tech@gmail.com" class="social-link" target="_blank">
                         <i class="fas fa-envelope"></i>
                     </a>
                 </div>
@@ -1239,7 +1239,7 @@ class ResumeApp:
             </div>
         """, unsafe_allow_html=True)
 
-        st.toast("Check out these repositories: [Iriswise](https://github.com/Hunterdii/Iriswise)", icon="ℹ️")
+        st.toast("Check out these repositories: [Iriswise](https://github.com/Surajkecode)", icon="ℹ️")
 
     def render_analyzer(self):
         """Render the resume analyzer page"""
@@ -2833,7 +2833,7 @@ class ResumeApp:
         
         st.markdown('</div>', unsafe_allow_html=True)
         
-        st.toast("Check out these repositories: [AI-Nexus(AI/ML)](https://github.com/Hunterdii/AI-Nexus)", icon="ℹ️")
+        st.toast("Check out these : [SS-INFOTECH (AI/ML)](https://www.ssinfotech.co/)", icon="ℹ️")
 
         # Call-to-Action with Streamlit navigation
         col1, col2, col3 = st.columns([1, 1, 1])
@@ -2875,33 +2875,33 @@ class ResumeApp:
         with stats_tab:
             feedback_manager.render_feedback_stats()
 
-        st.toast("Check out these repositories: [TryHackMe Free Rooms](https://github.com/Hunterdii/tryhackme-free-rooms)", icon="ℹ️")
+        st.toast("Check out these repositories: [Real Time Project Development ](https://www.ssinfotech.co/real-time-project.html)", icon="ℹ️")
 
 
     def show_repo_notification(self):
         message = """
 <div style="background-color: #1e1e1e; border-radius: 10px; border: 1px solid #4b6cb7; padding: 10px; margin: 10px 0; color: white;">
-    <div style="margin-bottom: 10px;">Check out these other repositories:</div>
-    <div style="margin-bottom: 5px;"><b>Hacking Resources:</b></div>
+    <div style="margin-bottom: 10px;">Check out these other Courses:</div>
+    <div style="margin-bottom: 5px;"><b>Development:</b></div>
     <ul style="margin-top: 0; padding-left: 20px;">
-        <li><a href="https://github.com/Hunterdii/tryhackme-free-rooms" target="_blank" style="color: #4CAF50;">TryHackMe Free Rooms</a></li>
-        <li><a href="https://github.com/Hunterdii/Awesome-Hacking" target="_blank" style="color: #4CAF50;">Awesome Hacking</a></li>
+        <li><a href="https://www.ssinfotech.co/real-time-project.html" target="_blank" style="color: #4CAF50;">Real Time Project Development</a></li>
+        <li><a href="https://www.ssinfotech.co/softwaredev.html" target="_blank" style="color: #4CAF50;">Software Development</a></li>
     </ul>
-    <div style="margin-bottom: 5px;"><b>Programming Languages:</b></div>
+    <div style="margin-bottom: 5px;"><b>Training Programs:</b></div>
     <ul style="margin-top: 0; padding-left: 20px;">
-        <li><a href="https://github.com/Hunterdii/Awesome-Java" target="_blank" style="color: #4CAF50;">Awesome Java</a></li>
-        <li><a href="https://github.com/Hunterdii/30-Days-Of-Rust" target="_blank" style="color: #4CAF50;">30 Days Of Rust</a></li>
+        <li><a href="https://www.ssinfotech.co/ielts.html" target="_blank" style="color: #4CAF50;">IELTS Preparation</a></li>
+        <li><a href="https://www.ssinfotech.co/ielts.html" target="_blank" style="color: #4CAF50;">TOFEL Preparation</a></li>
     </ul>
-    <div style="margin-bottom: 5px;"><b>Data Structures & Algorithms:</b></div>
+    <div style="margin-bottom: 5px;"><b>Job & Career Consultant</b></div>
     <ul style="margin-top: 0; padding-left: 20px;">
-        <li><a href="https://github.com/Hunterdii/GeeksforGeeks-POTD" target="_blank" style="color: #4CAF50;">GeeksforGeeks POTD</a></li>
-        <li><a href="https://github.com/Hunterdii/Leetcode-POTD" target="_blank" style="color: #4CAF50;">Leetcode POTD</a></li>
+        <li><a href="https://www.ssinfotech.co/job.html" target="_blank" style="color: #4CAF50;">Job</a></li>
+        <li><a href="https://www.ssinfotech.co/career.html" target="_blank" style="color: #4CAF50;">Career</a></li>
     </ul>
-    <div style="margin-bottom: 5px;"><b>AI/ML Projects:</b></div>
+    <div style="margin-bottom: 5px;"><b>Contact Us:</b></div>
     <ul style="margin-top: 0; padding-left: 20px;">
-        <li><a href="https://github.com/Hunterdii/AI-Nexus" target="_blank" style="color: #4CAF50;">AI Nexus</a></li>
+        <li><a href="https://www.ssinfotech.co/Contact-Us.html" target="_blank" style="color: #4CAF50;">Connect and Grow</a></li>
     </ul>
-    <div style="margin-top: 10px;">If you find this project helpful, please consider ⭐ starring the repo!</div>
+    <div style="margin-top: 10px;">If you find this project helpful, please consider ⭐ starring the Journey!</div>
 </div>
 """
         st.sidebar.markdown(message, unsafe_allow_html=True)
