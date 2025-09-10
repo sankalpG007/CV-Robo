@@ -33,7 +33,7 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/sankalpG007/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
             <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/Hunterdii/Smart-AI-Resume-Analyzer?style=flat&logo=github"/></td>
@@ -50,16 +50,16 @@
     <span> · </span>
     <a href="#-setup-in-minutes">Set-Up (Installation)</a>
     <span> · </span>
-    <a href="mailto:het8185@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20Smart%20AI-RESUME-ANALYZER%20(2024%20 %2025)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
+    <a href="mailto:singhsankalp880@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20Smart%20AI-RESUME-ANALYZER%20(2024%20 %2025)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
   </h4>
   <p>
     <small align="justify">
       Built with <img src="https://github.com/user-attachments/assets/00314b63-96bb-4e9a-92f6-4ead67e0fb7d" width="25" height="25"> by 
-      <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Het Patel</a>
+      <a href="http://linkedin.com/in/sankalp-singh-48670b21a">Sankalp Singh</a>
      </small>
   </p>
-  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCA at 
-    <a href="https://paruluniversity.ac.in/">Parul University</a> during academic year 2024-25
+  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project of SS Infotech by Sankalp Singh 
+    <a href="https://ssinfotech.com/">SS Infotech</a>
   </small>
 </div><br/><br/>
 </div>  
@@ -69,7 +69,7 @@
 
 - [![Streamlit Badge](https://img.shields.io/badge/Live%20Demo-Streamlit-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://resumind.streamlit.app/)  
 
-- [![Documentation Badge](https://img.shields.io/badge/Documentation-Request-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het8185@gmail.com?subject=Request%20Documentation%20for%20Smart%20AI%20Resume%20Analyzer&body=Hi%20Het%20Patel,%0D%0AI%20am%20interested%20in%20learning%20more%20about%20your%20project,%20Smart%20AI%20Resume%20Analyzer.%20Here%20are%20my%20details:%0D%0A%0D%0AName:%0D%0AOrganization/College:%0D%0APurpose%20of%20request:%0D%0A%0D%0AThanks!)  
+- [![Documentation Badge](https://img.shields.io/badge/Documentation-Request-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsankalp880@gmail.com?subject=Request%20Documentation%20for%20Smart%20AI%20Resume%20Analyzer&body=Hi,%0D%0AI%20am%20interested%20in%20learning%20more%20about%20your%20project,%20Smart%20AI%20Resume%20Analyzer.%20Here%20are%20my%20details:%0D%0A%0D%0AName:%0D%0AOrganization/College:%0D%0APurpose%20of%20request:%0D%0A%0D%0AThanks!) 
 
 - [![AI Models Badge](https://img.shields.io/badge/AI%20Models-Documentation-purple?style=for-the-badge&logo=openai&logoColor=white)](AI_MODELS.md)  
 
@@ -596,7 +596,7 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 ## 🛡️ Maintainer  
 
 > **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
+> Have suggestions? Feel free to reach out to [me via email](singhsankalp880@gmail.com). 📧
 
 
 ## 📰 News  
@@ -612,7 +612,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
+|                 |
 | **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨

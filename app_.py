@@ -1,4 +1,4 @@
-﻿"""
+"""
 Smart Resume AI - Main Application
 """
 import time
@@ -465,47 +465,44 @@ class ResumeApp:
         """, unsafe_allow_html=True)
         
     def add_footer(self):
-        st.markdown("""
-        <style>
-            .footer {
-                width: 100%;
-                background-color: #0e1117;
-                color: white;
-                text-align: center;
-                padding: 10px 0;
-                font-size: 14px;
-                border-top: 1px solid #4CAF50;
-                position: relative;
-                bottom: 0;
-                left: 0;
-            }
-            .footer a {
-                color: #4CAF50;
-                text-decoration: none;
-                font-weight: bold;
-            }
-            .footer p {
-                margin: 5px 0;
-            }
-        </style>
-        <div class="footer">
-            <p>
-                Powered by <b>Streamlit</b> & <b>Google Gemini AI</b> | Developed by 
-                <a href="http://linkedin.com/in/sankalp-singh-48670b21a" target="_blank">
-                    Sankalp Satendra Singh
+        """Add a footer to all pages"""
+        st.markdown("<hr style='margin-top: 50px; margin-bottom: 20px;'>", unsafe_allow_html=True)
+        
+        col1, col2, col3 = st.columns([1, 3, 1])
+        
+        with col2:
+            # GitHub star button with lottie animation
+            st.markdown("""
+            <!-- COMMENTED OUT GITHUB STAR SECTION -->
+<!-- <div style='display: flex; justify-content: center; align-items: center; margin-bottom: 10px;'>
+                <a href='https://github.com/sankalpG007' target='_blank' style='text-decoration: none;'>
+                    <div style='display: flex; align-items: center; background-color: #24292e; padding: 5px 10px; border-radius: 5px; transition: all 0.3s ease;'>
+                        <svg height="16" width="16" viewBox="0 0 16 16" version="1.1" style='margin-right: 5px;'>
+                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z" fill="gold"></path>
+                        </svg>
+                        <span style='color: white; font-size: 14px;'>Star this repo</span>
+                    </div> -->
+                </a>
+            </div>
+            """, unsafe_allow_html=True)
+            
+            # Footer text
+            st.markdown("""
+            <p style='text-align: center;'>
+                Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by 
+                <a href="http://linkedin.com/in/sankalp-singh-48670b21a" target="_blank" style='text-decoration: none; color: #FFFFFF'>
+                    <b>Sankalp Satendra Singh</b>
                 </a>
             </p>
-            <p>© 2025 Sankalp Satendra Singh | "Every project is a step closer to your dream — keep building!"</p>
-        </div>
-    """, unsafe_allow_html=True)
-
-
+            <p style='text-align: center; font-size: 12px; color: #888888;'>
+                "Every star counts! If you find this project helpful, please consider starring the repo to help it reach more people."
+            </p>
+            """, unsafe_allow_html=True)
 
     def load_image(self, image_name):
         """Load image from static directory"""
         try:
-            image_path = f"C:/Users/shree/Downloads/smart-resume-ai/{image_name}"
-
+            image_path = f"c:/Users/shree/Downloads/smart-resume-ai/{image_name}"
             with open(image_path, "rb") as f:
                 image_bytes = f.read()
             encoded = base64.b64encode(image_bytes).decode()
@@ -599,7 +596,7 @@ class ResumeApp:
         return False
 
     def render_builder(self):
-        st.title("About Smart Resume AI")
+        st.title("Resume Builder 📝")
         st.write("Create your professional resume")
 
         # Template selection
@@ -1168,12 +1165,12 @@ class ResumeApp:
         # Profile Section
         st.markdown(f"""
             <div class="profile-section">
-                <img src="assets\Me_IIM.jpg" 
-                     alt="Sankalp Singh"
+                <img src="{image_base64 if image_base64 else 'https://www.ssinfotech.co/logo.png'}"
+                     alt="SS Infotech"
                      class="profile-image"
                      onerror="this.onerror=null; this.src='https://www.ssinfotech.co/logo.png';">
-                <h2 class="profile-name">Sankalp Singh<h2>
-                <p class="profile-title">AI/ML Developer</p>
+                <h2 class="profile-name">Sankalp Satendra Singh/<h2>
+                <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
                 <div class="social-links">
                     <a href="https://github.com/sankalpG007" class="social-link" target="_blank">
                         <i class="fab fa-github"></i>
@@ -1186,7 +1183,7 @@ class ResumeApp:
                     </a>
                 </div>
                 <p class="bio-text">
-                    Hello! I'm Sankalp  Singh, an MCA student specializing in AI/ML with a passion for data science, web development, and solving real-world problems through technology. I’ve worked on multiple frontend and Python projects, and I'm constantly exploring new tools in data analytics and AI to stay ahead in the tech world. When I’m not coding, you’ll find me at the gym, traveling, watching movies, or following sports.
+                    Hello! I'm Sankalp Satendra Singh, an MCA student specializing in AI/ML with a passion for data science, web development, and solving real-world problems through technology. I’ve worked on multiple frontend and Python projects, and I'm constantly exploring new tools in data analytics and AI to stay ahead in the tech world. When I’m not coding, you’ll find me at the gym, traveling, watching movies, or following sports.
                 </p>
             </div>
         """, unsafe_allow_html=True)
