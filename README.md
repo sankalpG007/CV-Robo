@@ -97,7 +97,7 @@
    - ✍️ Content Enhancement Tips  
    - 🌟 Industry-Specific Insights  
 
-**🎉 Why Use Smart Resume AI?**  
+**🎉 Why Use CV Robo?**  
 Get real-time feedback, boost your resume's impact, and maximize your chances of getting shortlisted—all with a sleek and intuitive interface.  
 
 ## <img src="https://github.com/user-attachments/assets/e5ac1371-6ac4-48b6-b95c-5ef9afaf1353" width="30"> **Live Demo**  
@@ -168,7 +168,7 @@ Get real-time feedback, boost your resume's impact, and maximize your chances of
    - Export your resume in **PDF** format, ready for submission.  This project has evolved with significant enhancements to its resume analysis capabilities:
 
 
-Follow these steps to run Smart Resume AI:  
+Follow these steps to run CV Robo:  
 
 #### **Setup Instructions** 🛠️
 
@@ -384,7 +384,7 @@ This is a **known issue with the resume builder feature**, where the autofill be
 We're actively working on a permanent fix to ensure your experience is seamless. Thank you for your understanding and support! 🙏  
 
 
-## 🎯 **Why Choose Smart Resume AI?**  
+## 🎯 **Why Choose CV Robo?**  
 
 ✨ **Tailored for You**  
 Your resume is optimized for the job you're aiming for, using role-specific insights.  
@@ -406,7 +406,7 @@ Join the mission! Here's how:
 2. Create a new branch for your feature: `git checkout -b feature-name`.  
 3. Push changes and submit a Pull Request.  
 
-##  <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px> **Why Users Love Smart Resume AI**  
+##  <img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px> **Why Users Love CV Robo**  
 
 - **Saves Time:** Create a stunning resume in minutes.  
 - **Increases Job Opportunities:** Tailor your resume to any role.  
@@ -591,7 +591,7 @@ This project is licensed under the [MIT License](https://github.com/Hunterdii/re
 
 ## 🌟 **GitHub Repo**  
 
-Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Smart Resume AI Repository](https://github.com/Hunterdii/resume-analyzer-ai)  
+Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [CV Robo Repository](https://github.com/Hunterdii/resume-analyzer-ai)  
 
 ## 🛡️ Maintainer  
 
