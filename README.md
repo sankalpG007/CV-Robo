@@ -617,5 +617,4 @@ If you appreciate this repository and want to show your support, you can do so t
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
 
-# AI_resume
- 65b5e56f9e340881aeb7f0aed75f70a8909b9492
+**CV code**
