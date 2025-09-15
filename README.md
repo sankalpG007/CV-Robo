@@ -2,14 +2,13 @@ HEAD
 
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
 
-<img src="https://socialify.git.ci/Hunterdii/Smart-AI-Resume-Analyzer/image?custom_description=6th+Sem+Final+Year+Project+at+Parul+University+%282024-2025%29&description=1&font=Bitter&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark&pattern=Transparent" alt="Smart-AI-Resume-Analyzer" width="1150" />
 
 <div align="center">
 
-#  **🏝️ Smart AI Resume Analyzer 🏝️**  
+#  **🏝️ CV Robo 🏝️**  
 <!--<img src="https://github.com/user-attachments/assets/8a37c282-efa0-45af-8f37-8e564a62ecd2" width="35">-->
 **Your Intelligent Career Partner**  
-<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> Smart AI Resume Analyzer is your all-in-one tool to analyze, optimize, and craft resumes that stand out, helping you land your dream job.  
+<img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> CV Robo is your all-in-one tool to analyze, optimize, and craft resumes that stand out, helping you land your dream job.  
 </div>
 
 
@@ -173,7 +172,7 @@ Follow these steps to run CV Robo:
 
 #### **Setup Instructions** 🛠️
 
-Follow the steps below to set up and run the **Smart AI Resume Analyzer** on your local machine.
+Follow the steps below to set up and run the **CV Robo** on your local machine.
 
 1. **Clone the repository:**
 
@@ -366,7 +365,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Known Bug 🚨 Autofill Glitch in Resume Builder!  
 
 ### What's Happening? 🤔  
-If you're using the **Browser's (e.g., Chrome, Edge, etc.) Autofill** feature to quickly fill out your **Name**, **Email**, and **Phone** details in our **Smart AI Resume Analyzer**, you might encounter this error in generating Resume:  
+If you're using the **Browser's (e.g., Chrome, Edge, etc.) Autofill** feature to quickly fill out your **Name**, **Email**, and **Phone** details in our **CV Robo**, you might encounter this error in generating Resume:  
 **"⚠️ Please enter your email address."**  
 
 Even though the email field appears to be filled, this is a small bug in the **Resume Builder Feature** where our system doesn't always recognize inputs from autofill.
